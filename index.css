@@ -42,13 +42,12 @@ h1{
         margin-bottom: 50px;
     }
     table{
-        margin: 20px;
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
-        margin-left: 1500px;
-        margin-right: 1500px;
+        margin-left: 800px;
+        margin-right: 800px;
     }
     .headi{
         margin: auto;
